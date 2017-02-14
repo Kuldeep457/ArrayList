@@ -1,3 +1,5 @@
+package com.kk.ds.list;
+
 class MyArrayList
 {
     private Object[] arr;
